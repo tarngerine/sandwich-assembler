@@ -1,0 +1,7 @@
+body {
+  background: lightcyan;
+}
+
+#world canvas {
+  background: transparent;
+}
